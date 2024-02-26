@@ -1,4 +1,5 @@
 # game-fall-down
+
 What is Fall Down?
 Fall down is a simple game which has the only objective of preventing the ball from going 
 off the top of the screen. It is a strategic, single player game which can be played by 
@@ -7,6 +8,7 @@ play this game. The game starts with a ball standing on a brick and there will b
 brick stairs below, the user has to use the keys to control the movement of the ball left and 
 right. The ball should fall and land on maximum number of brick stairs in order to get 
 maximum score. The only aim of the game is, the ball should not hit the top of the screen.
+
 How the Fall Dow Game works?
 ➢ The user should control the ball movements.
 ➢ The higher the brick stairs you land, more points you score.
@@ -19,6 +21,7 @@ How to play the game?
 ➢ The score is calculated by counting the total number of stairs landed by the ball.
 ➢ The ball should not hit the top of the screen.
 ➢ When the ball hits the top of the screen, the game ends.
+
 Tools:
 Technology Used:
 • Java
@@ -31,7 +34,9 @@ Hardware Requirements:
 • Hard Disk – 2GB.
 • RAM – 512 MB.
 • Processor-Dual Core or Above.
+
 PROJECT MODULES
+
 BALL MODULEThis Ball module is all about the basic characteristics of the ball in this game and also 
 about getting new position of the ball every time it changes its position due to the 
 movement in any direction either left or right. There are different methods created to move 
