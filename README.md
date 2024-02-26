@@ -48,6 +48,7 @@ Similarly for performing left movement, the method move left will be called whic
 work by increasing the constant value of x coordinate. The get position method will help 
 us to get the present position of the ball, every time if the ball movement changes. Finally, 
 we created the virtual ball by creating a circle shape and filling it with the colour black.
+
 BRICK MODULEThis brick module is all about creating a shape and structure of the brick and placing it in a 
 position as the game requires. The work is not done only on creating a shape and structure 
 of the brick; we also have to create a virtual movement restriction created by the actual 
@@ -59,6 +60,7 @@ and we also need to create some random length of brick for every particular cons
 interval along with the screen which is moving towards the top of the screen. We created a 
 structure of the brick using rectangle shape and by painting it with a red color, so that it 
 will look like a brick.
+
 MOVEMENT MODULEThis module is responsible with the movements related in the game. Movement of the ball 
 and the moving background is an integral part of this game hence we can subdivide this 
 section into first ball movement and next moving background. So let’s discuss on this one 
